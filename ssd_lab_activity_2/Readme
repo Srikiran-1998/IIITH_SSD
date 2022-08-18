@@ -1,0 +1,5 @@
+For the first question send path and name as follows.
+$ bash q1.sh /home/srikiran/ssd/input.txt
+For second question just give as follows
+bash q2.sh 
+
